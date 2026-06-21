@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     
 # Job
-  jobs: 
+jobs: 
     say-hello:
       runs-on: ubuntu-latest
       steps:
